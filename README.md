@@ -11,6 +11,8 @@ I enjoy building scalable applications and solving real-world problems using mod
 * ⚙️ Backend Developer using **Node.js**
 * 🌐 Experience building APIs and full backend systems
 * 🗄️ Working with relational databases like **PostgreSQL**
+* 🔥 Experience using **Firebase**
+* 💻 Working with **JavaScript**
 * 🧠 Passionate about learning new technologies and improving problem-solving skills
 
 ---
@@ -30,10 +32,12 @@ I enjoy building scalable applications and solving real-world problems using mod
 ### Frontend
 
 * React.js
+* JavaScript
 
 ### Database
 
 * PostgreSQL
+* Firebase
 
 ### Tools
 
@@ -71,14 +75,14 @@ A messaging application built with **Flutter** featuring real-time communication
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moawiah999\&show_icons=true)
 
 ---
 
 ## 📫 Contact Me
 
 * GitHub: https://github.com/Moawiah999
-* Email: aldwiriymoaweah@gmail.com
+* Email: [aldwiriymoaweah@gmail.com](mailto:aldwiriymoaweah@gmail.com)
 
 ---
 
