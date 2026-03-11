@@ -47,7 +47,38 @@ I enjoy building scalable applications and solving real-world problems using mod
 
 ---
 
-## 📂 Featured Projects
+## 📱 Flutter Projects
+
+### 🛒 Product Rental E-Commerce App
+
+A mobile application built with **Flutter** that allows users to rent products online.
+Features include:
+
+* Browse available products
+* Product details and images
+* Booking / rental system
+* User authentication
+
+### 🌿 Farm Reservation App
+
+A mobile application that allows users to:
+
+* Browse farms available for rent
+* View farm details
+* Book farms for specific dates
+* Manage reservations
+
+### 🎓 Graduation Projects Apps
+
+Developed multiple mobile applications for university graduation projects, including:
+
+* Reservation systems
+* Service-based mobile apps
+* Custom Flutter applications based on client requirements
+
+---
+
+## 📂 Other Projects
 
 ### 📱 Flutter To-Do App
 
