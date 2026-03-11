@@ -107,14 +107,6 @@ Technologies used:
 * JavaScript
 * PostgreSQL
 
-### ✈️ Flight Booking Backend API
-
-Backend system built with **Node.js** that includes:
-
-* Flight search
-* Reservations
-* Notifications
-* Role & permission management
 
 ---
 
