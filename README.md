@@ -107,6 +107,27 @@ Technologies used:
 * JavaScript
 * PostgreSQL
 
+---
+
+## 📚 Learning Projects
+
+While learning **React.js** and **Node.js**, I built several practice projects such as:
+
+### 📅 Booking Website
+
+A simple web application that allows users to make and manage reservations.
+
+### 🎮 Hangman Game
+
+A browser-based implementation of the classic **Hangman game** using **JavaScript**.
+
+### 🧪 Other Practice Projects
+
+Developed additional small projects to practice:
+
+* React components
+* API integration
+* Backend logic with Node.js
 
 ---
 
