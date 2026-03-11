@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Moawiah Al-Duwairi
 
-<!--
-**Moawiah999/Moawiah999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer with experience in **Mobile Development** and **Backend Development**.
+I enjoy building scalable applications and solving real-world problems using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 📱 Worked as a **Flutter Developer**
+* ⚙️ Backend Developer using **Node.js**
+* 🌐 Experience building APIs and full backend systems
+* 🗄️ Working with relational databases like **PostgreSQL**
+* 🧠 Passionate about learning new technologies and improving problem-solving skills
+
+---
+
+## 🚀 Technologies & Tools
+
+### Mobile Development
+
+* Flutter
+* Dart
+
+### Backend Development
+
+* Node.js
+* RESTful APIs
+
+### Frontend
+
+* React.js
+
+### Database
+
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+
+---
+
+## 📂 Featured Projects
+
+### 📱 Flutter To-Do App
+
+A mobile application that allows users to:
+
+* Create tasks
+* Edit tasks
+* Delete tasks
+* Store data using Firebase
+
+### ✈️ Flight Booking Backend API
+
+Backend system built with **Node.js** that includes:
+
+* Flight search
+* Reservations
+* Notifications
+* Role & permission management
+
+### 💬 Chat Application
+
+A messaging application built with **Flutter** featuring real-time communication.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
+* GitHub: https://github.com/Moawiah999
+* Email: aldwiriymoaweah@gmail.com
+
+---
+
+⭐ Always interested in working on new projects and improving my development skills.
