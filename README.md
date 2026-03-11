@@ -79,11 +79,11 @@ Developed multiple mobile applications for university graduation projects, inclu
 
 ---
 
-## 📂 Backend Projects
+## 📂 Backend & Full Stack Projects
 
-### 🛍️ E-Commerce Backend API
+### 🛍️ E-Commerce System
 
-Built a backend system for an **e-commerce application** used to sell products.
+Developed the backend for an **e-commerce application** used to sell products.
 
 Features include:
 
@@ -93,11 +93,28 @@ Features include:
 * RESTful API for mobile or web applications
 * Database integration using **PostgreSQL**
 
+Additionally, I developed an **Admin Dashboard** using **React.js** to manage:
+
+* Products
+* Orders
+* Users
+* System data
+
 Technologies used:
 
 * Node.js
+* React.js
 * JavaScript
 * PostgreSQL
+
+### ✈️ Flight Booking Backend API
+
+Backend system built with **Node.js** that includes:
+
+* Flight search
+* Reservations
+* Notifications
+* Role & permission management
 
 ---
 
