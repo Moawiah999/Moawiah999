@@ -52,6 +52,7 @@ I enjoy building scalable applications and solving real-world problems using mod
 ### 🛒 Product Rental E-Commerce App
 
 A mobile application built with **Flutter** that allows users to rent products online.
+
 Features include:
 
 * Browse available products
@@ -78,29 +79,25 @@ Developed multiple mobile applications for university graduation projects, inclu
 
 ---
 
-## 📂 Other Projects
+## 📂 Backend Projects
 
-### 📱 Flutter To-Do App
+### 🛍️ E-Commerce Backend API
 
-A mobile application that allows users to:
+Built a backend system for an **e-commerce application** used to sell products.
 
-* Create tasks
-* Edit tasks
-* Delete tasks
-* Store data using Firebase
+Features include:
 
-### ✈️ Flight Booking Backend API
+* Product management
+* User authentication
+* Order management
+* RESTful API for mobile or web applications
+* Database integration using **PostgreSQL**
 
-Backend system built with **Node.js** that includes:
+Technologies used:
 
-* Flight search
-* Reservations
-* Notifications
-* Role & permission management
-
-### 💬 Chat Application
-
-A messaging application built with **Flutter** featuring real-time communication.
+* Node.js
+* JavaScript
+* PostgreSQL
 
 ---
 
